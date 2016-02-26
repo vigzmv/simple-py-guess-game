@@ -2,6 +2,7 @@ import random
 
 guesses_made = 0
 
+
 name = raw_input('Hello! What is your name?\n')
 
 number = random.randint(1, 20)
